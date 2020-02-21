@@ -20,3 +20,4 @@ dxScrollableScrollbarDxWidgetDxScrollbarVertical_div,//div[@class='dx-scrollable
 dxScrollableScrollbarDxWidgetDxScrollbarVertical_div,//div[@class='dx-scrollable-scrollbar dx-widget dx-scrollbar-vertical dx-scrollbar-hoverable dx-state-hover'],Xpath,1
 Element_any,/html[1]/body[1]/app-root[1]/system[1]/div[1]/reports[1]/georeport2[1]/div[1]/div[1]/dx-data-grid[1]/div[1]/div[6]/div[1]/div[1]/div[3]/div[1]/div[1],Xpath,1
 14052019_any,//td[text()='14.05.2019'],Xpath,2
+//no world
